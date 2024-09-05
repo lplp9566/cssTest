@@ -1,0 +1,31 @@
+input{
+    width:80%;
+    margin-left: 10px;
+}
+#her{
+    display: flex;
+    justify-content: center;
+}
+#tup{
+    display: flex;
+    flex-direction: row;
+    
+
+}
+header{
+    background-color: green;
+    width: 100%;
+}
+#qwe{   
+     height: 25px;
+    width: 100%;
+    margin-left: 125px;
+    display: flex;
+    flex-direction: row;
+    align-content: center; 
+     justify-content: center; }
+     #fr{color: white;
+    margin-right: 290px;
+    
+}
+     
